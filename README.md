@@ -14,6 +14,10 @@ ShrinkQuizz (E3 challenge) is an Android application that allows the user to ans
 * Use of SeekBar to answer the questions
 * Use of CheckBox to answer the questions
 
+## Preview
+
+![](ShrinkQuizz.gif)
+
 ## License
 
 * [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
